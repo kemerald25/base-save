@@ -1,0 +1,47 @@
+{
+  "name": "basesave",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@coinbase/onchainkit": "latest",
+    "@coinbase/wallet-sdk": "latest",
+    "@devroyale/miniapp": "latest",
+    "@farcaster/miniapp-sdk": "latest",
+    "@farcaster/quick-auth": "latest",
+    "@reown/appkit": "1.8.14-cc0928045461a473e8850f4bd5ee072c53e54502.0",
+    "@reown/appkit-adapter-wagmi": "1.8.14-cc0928045461a473e8850f4bd5ee072c53e54502.0",
+    "@supabase/supabase-js": "^2.89.0",
+    "@tanstack/react-query": "latest",
+    "date-fns": "^3.6.0",
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "viem": "latest",
+    "wagmi": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "^3.4.6",
+    "tape": "^5.8.1",
+    "typescript": "latest",
+    "webpack": "^5.95.0",
+    "why-is-node-running": "^2.2.2"
+  },
+  "overrides": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

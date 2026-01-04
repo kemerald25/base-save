@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "basesave",
+    "homeUrl": "https://base-save.vercel.app",
+    "iconUrl": "https://base-save.vercel.app/icon.png",
+    "splashImageUrl": "https://base-save.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://base-save.vercel.app/api/webhook",
+    "subtitle": "A daily saving protocol built on the baseapp",
+    "description": "A daily saving protocol built on the baseapp",
+    "screenshotUrls": [],
+    "primaryCategory": "defi",
+    "tags": [
+      "defi",
+      "miniapp",
+      "base"
+    ],
+    "heroImageUrl": "https://base-save.vercel.app/og.png",
+    "tagline": "A daily saving protocol built on the baseapp",
+    "ogTitle": "basesave",
+    "ogDescription": "A daily saving protocol built on the baseapp",
+    "ogImageUrl": "https://base-save.vercel.app/og.png",
+    "noindex": false
+  }
+}
